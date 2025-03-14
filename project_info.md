@@ -20,3 +20,17 @@ Rules and tasks:
 5.	Complete Basic 2 User Game	Your primary focus is to complete the game for two human users. Once complete, you can start developing advanced logic for the human vs computer game.
 6.	Make sure, OOP principles are followed	Most of the points will be allocated for understanding and implementing OOP principles, Therefore, before advancing your project further, make sure you have taken advantage of all OOP principles discussed in this course.
 
+
+Tasks:
+
+Milestone 1: Setup & Planning
+✅ Create a GitHub Repo and invite your teammate (if applicable).
+✅ Break down tasks in a README file.
+✅ Research game strategies (check Wikipedia & the YouTube videos provided).
+
+Milestone 2: Build the Core Classes
+
+Milestone 3: Implement the Two-Player Game
+
+Milestone 4: Add Extra Features
+
